@@ -6,7 +6,7 @@
 
     Ray Tracer in JavaScript
 
-    This program is a function basic ray tracer and can be condensed to one line of javascript not including semicolons
+    This program is a functional basic ray tracer and can be condensed to one line of javascript not including semicolons
 */
 
 [
